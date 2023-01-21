@@ -1,5 +1,5 @@
 # Lyric-Generation-Recurrent-Neural-Network
-In this assignment, you are required to develop a Recurrent Neural Network (RNN) that can learn the lyrics and melodies of songs, and then predict the remaining lyrics given a melody and a few starting words.
+In this assignment,I'm developing a Recurrent Neural Network (RNN) that can learn the lyrics and melodies of songs, and then predict the remaining lyrics given a melody and a few starting words.
 
 ## Data:
 - `lyrics_train_set.csv`- contain 600 song lyrics for the training of popular artists.
